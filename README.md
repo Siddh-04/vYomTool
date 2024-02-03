@@ -31,41 +31,41 @@
     </div>
  - Roo3.root
     <div style="display: flex;">
-        <img src="./Result_Plotting/ele3_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/ele3_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/ele3_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/ele3_eta.png" alt="ele3_eta" width="40%">
     </div>
 - Roo4.root
 
     <div style="display: flex;">
-        <img src="./Result_Plotting/ele4_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/ele4_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/ele4_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/ele4_eta.png" alt="ele3_eta" width="40%">
     </div>
 - Roo5.root
 
     <div style="display: flex;">
-        <img src="./Result_Plotting/ele5_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/ele5_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/ele5_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/ele5_eta.png" alt="ele3_eta" width="40%">
     </div>
 
 ##### Similarly adding for muons
 - Roo1.root
     <div style="display: flex;">
-        <img src="./Result_Plotting/mu1_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/mu1_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/mu1_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/mu1_eta.png" alt="ele3_eta" width="40%">
     </div>
 - Roo3.root
     <div style="display: flex;">
-        <img src="./Result_Plotting/mu3_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/mu3_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/mu3_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/mu3_eta.png" alt="ele3_eta" width="40%">
     </div>
 - Roo4.root
     <div style="display: flex;">
-        <img src="./Result_Plotting/mu4_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/mu4_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/mu4_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/mu4_eta.png" alt="ele3_eta" width="40%">
     </div>
 - Roo5.root
     <div style="display: flex;">
-        <img src="./Result_Plotting/mu5_pt.png" alt="ele3_pt" width="50%">
-        <img src="./Result_Plotting/mu5_eta.png" alt="ele3_eta" width="50%">
+        <img src="./Result_Plotting/mu5_pt.png" alt="ele3_pt" width="40%">
+        <img src="./Result_Plotting/mu5_eta.png" alt="ele3_eta" width="40%">
     </div>
 
