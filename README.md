@@ -22,7 +22,7 @@
 - I tried to get multiple data except jets as I'm not able to understand anything in it
 
 
-# following are the graphs that I got
+# Following are the graphs that I got
 #### Plots for Electrons transversal momentum and pseudorapidity
 - Roo1.root
     <div style="display: flex;">
