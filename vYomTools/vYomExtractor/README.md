@@ -22,13 +22,13 @@ The `test` will contain analysis examples
 
 2. Obtain the code from git (this repository):
     ```
-    git clone -b 2015MiniAOD https://github.com/cms-opendata-analyses/PhysObjectExtractorTool.git
-    cd PhysObjectExtractorTool
+    git clone https://github.com/Siddh-04/vYomTool.git
+    cd vYomTool
     ```
 
 3. Compile everything:
     ```
-    cd PhysObjectExtractor
+    cd vYomTool
     scram b
     ```
 
