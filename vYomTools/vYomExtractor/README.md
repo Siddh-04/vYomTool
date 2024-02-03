@@ -1,4 +1,4 @@
-# Physics Objects Extractor (PhysObjectExtractor) for 2015MiniAOD data
+# This is vYom Analyzer based on POET
 
 ## Description
 The `PhysObjectExtractor` package is the heart of the POET repository.  It contains a collection of [EDAnalyzers](https://cms-opendata-guide.web.cern.ch/cmssw/cmsswanalyzers/) that extract information from different physics objects into a [ROOT](https://cms-opendata-guide.web.cern.ch/tools/root/) file called `myoutput.root`.  They have been written separately for clarity and can be executed modularly using a single configuration file called `poet_cfg.py`.
@@ -34,7 +34,7 @@ The `test` will contain analysis examples
 
 4. Run the CMSSW job with the configuration file:
     ```
-    cmsRun python/poet_cfg.py <isData>
+    cmsRun python/vYom_cfg.py <link to the data> <isData>
     ```
 
     `<isData>` (to run on Data or not) is an optional boolean argument (default is False, i.e., runs over MC simulations)
@@ -48,7 +48,7 @@ The `test` will contain analysis examples
 
     Open the file with ROOT and start a graphics browser:
     ```
-    root myoutpoot.root
+    root Roo3.root
     TBrowser t
     ```
 
