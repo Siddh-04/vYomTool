@@ -22,3 +22,6 @@
 - I tried to get multiple data except jets as I'm not able to understand anything in it
 
 
+# following are the graphs that I got
+    - from link one
+    ![ele3_pt](./Result_Plotting/ele3_pt.png)
