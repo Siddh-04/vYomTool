@@ -26,8 +26,8 @@
 #### Plots for Electrons transversal momentum and pseudorapidity
 - Roo1.root
     <div style="display: flex;">
-        <img src="./Result_Plotting/ele1_pt.png" alt="ele1_pt" width="50%">
-        <img src="./Result_Plotting/ele1_eta.png" alt="ele1_eta" width="50%">
+        <img src="./Result_Plotting/ele1_pt.png" alt="ele1_pt" width="40%">
+        <img src="./Result_Plotting/ele1_eta.png" alt="ele1_eta" width="40%">
     </div>
  - Roo3.root
     <div style="display: flex;">
